@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sáez;José Alberto;;;
+FN:José Alberto Sáez
+ORG:INTERA
+TITLE:Applications & R&D Manager
+EMAIL;TYPE=INTERNET,WORK:jose.saez@intera-group.com
+TEL;TYPE=CELL:+34 649 592 226
+ADR;TYPE=WORK:;Les Corts;Carrer de Sabino Arana\, 14;Barcelona;;08028;Spain
+URL:https://www.intera-group.com
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/jos%C3%A9-alberto
+ -s%C3%A1ez-zamora-87b53111/
+END:VCARD
